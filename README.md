@@ -1,6 +1,6 @@
 # numericalsql
 
-SQL for Numerical Analysis, run locally with Docker.
+SQL for Numerical Analysis.
 
 ## Setup
 
