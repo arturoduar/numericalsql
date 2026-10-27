@@ -1,6 +1,6 @@
 # numericalsql
 
-A MySQL 8.4 project for working with numeric data, run locally with Docker.
+SQL for Numerical Analysis, run locally with Docker.
 
 ## Setup
 
